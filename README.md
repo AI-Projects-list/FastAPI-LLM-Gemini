@@ -1,9 +1,8 @@
 
 ---
 
-# 🏥 Triage Recommendation API
+# 🏥 End-to-End Mini Project (FastAPI + Google Gemini + LangChain)
 
-### FastAPI + Google Gemini + LangChain
 
 A lightweight **AI-powered hospital triage recommendation service**.
 Given patient info (gender, age, symptoms), the API uses **Google Gemini (via LangChain)** to automatically recommend the most relevant medical department.
