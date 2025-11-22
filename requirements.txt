@@ -1,0 +1,5 @@
+langchain
+python-decouple
+langchain-google-genai
+fastapi
+uvicorn
