@@ -7,6 +7,10 @@
 A lightweight **AI-powered hospital triage recommendation service**.
 Given patient info (gender, age, symptoms), the API uses **Google Gemini (via LangChain)** to automatically recommend the most relevant medical department.
 
+
+[![Watch the video](https://img.youtube.com/vi/NciTzm6zMbA/maxresdefault.jpg)](https://www.youtube.com/watch?v=NciTzm6zMbA)
+
+
 ---
 
 ## 🚀 Features
